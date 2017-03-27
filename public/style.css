@@ -1,3 +1,7 @@
 body {
-  background-color: rgb(113, 113, 198);
+    background-image: url("https://d13yacurqjgara.cloudfront.net/users/27981/screenshots/2193123/rock_paper_scissors__2x.png");
+  }
+
+h1, h2{
+  text-align: center;
 }
